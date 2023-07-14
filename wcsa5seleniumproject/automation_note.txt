@@ -1,0 +1,27 @@
+sleep(1000);
+send("path of the file")   
+//click on some button enter in {} braces
+save files .au3 extension
+
+save file rigth click >>toos>compile
+copy and paste in autoidprogram folder
+
+Runtime.getRuntime.exe("path provide");
+
+//vb script
+controlFocus: to find element /identify window base eleement
+controlsetText:it is is used to send the text to eleemnt
+controlclick :is to click
+
+controlFocus("title","text",controlID)   // title is case sensitive text=is optional,controlID=is combination of class+instance
+sleep()
+controlSetText(title,controliD,new text)    //new text=path of the file provide
+controlclick()
+
+//frame
+to find element 1st go with xpath
+2nd javascriptExecutor
+3rd by frame
+
+defaultcontent: switch the control to directly main webpage from inner child frame
+parentframe:swith from child frame to its immediate parent 

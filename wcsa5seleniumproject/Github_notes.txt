@@ -1,0 +1,17 @@
+github is source code manage tool
+github it is decentralize repo which is manage two source code
+git is localrepo
+plugin :github-manage source code
+        git-local repo manage by eclipse
+
+wsca5repositroy
+token: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
+
+git>clone git repository>url:>next>next>finish>right click on roject>team>share project
+use crete checkbox unchecked>select project>finish
+right click project>team>commit>gitstagin click>all are select project dag and drop in bottom box>commit & push>push>username >password:token>login>popup generate see on that link
+
+disconnect: rigthclick on project>team>disconnect
+
+priyanka_selenium_code
+selenium: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

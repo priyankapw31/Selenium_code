@@ -1,0 +1,10 @@
+<html>
+<body>
+<select name='menu' id='menu'>
+<option value='v1'>Nashik</option>
+<option value='v1'>Pune</option>
+<option value='v1'>Mumbai</option>
+<option value='v1'>Delhi</option>
+</select>
+</body>
+</html>

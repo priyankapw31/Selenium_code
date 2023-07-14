@@ -1,0 +1,13 @@
+maven dependency :we download the all jars file
+
+webdrivermanagerdownload
+download
+right click >build path >create build path
+
+properties >java build path
+
+system.setproperties instead of 
+webDriverManager.chromedriver().setup();
+
+"arguments[0].click".
+"arguments[0].scrollIntoView(true/false)"
