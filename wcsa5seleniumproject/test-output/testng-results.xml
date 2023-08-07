@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T22:01:46 IST" name="Suite" finished-at="2023-08-04T22:01:48 IST" duration-ms="1840">
+    <groups>
+      <group name="ST">
+        <method signature="Groups.st1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="st1" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.st2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="st2" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.st3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="st3" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.st4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="st4" class="testNGAnnotation_Flags.Groups"/>
+      </group> <!-- ST -->
+      <group name="IT">
+        <method signature="Groups.it1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="it1" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.it2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="it2" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.it3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="it3" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.it4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="it4" class="testNGAnnotation_Flags.Groups"/>
+      </group> <!-- IT -->
+      <group name="FT">
+        <method signature="Groups.ft1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="ft1" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.ft2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="ft2" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.ft3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="ft3" class="testNGAnnotation_Flags.Groups"/>
+        <method signature="Groups.ft4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" name="ft4" class="testNGAnnotation_Flags.Groups"/>
+      </group> <!-- FT -->
+    </groups>
+    <test started-at="2023-08-04T22:01:46 IST" name="Test" finished-at="2023-08-04T22:01:48 IST" duration-ms="1840">
+      <class name="testNGAnnotation_Flags.Groups">
+        <test-method signature="ft1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="ft1" finished-at="2023-08-04T22:01:47 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method signature="ft2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="ft2" finished-at="2023-08-04T22:01:47 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method signature="ft3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="ft3" finished-at="2023-08-04T22:01:47 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft3 -->
+        <test-method signature="ft4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="ft4" finished-at="2023-08-04T22:01:47 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft4 -->
+        <test-method signature="it1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="it1" finished-at="2023-08-04T22:01:47 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method signature="it2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="it2" finished-at="2023-08-04T22:01:47 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method signature="it3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="it3" finished-at="2023-08-04T22:01:47 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method signature="it4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="it4" finished-at="2023-08-04T22:01:47 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- it4 -->
+        <test-method signature="st1()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="st1" finished-at="2023-08-04T22:01:47 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st1 -->
+        <test-method signature="st2()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="st2" finished-at="2023-08-04T22:01:47 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st2 -->
+        <test-method signature="st3()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:47 IST" name="st3" finished-at="2023-08-04T22:01:48 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st3 -->
+        <test-method signature="st4()[pri:0, instance:testNGAnnotation_Flags.Groups@35cabb2a]" started-at="2023-08-04T22:01:48 IST" name="st4" finished-at="2023-08-04T22:01:48 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st4 -->
+      </class> <!-- testNGAnnotation_Flags.Groups -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

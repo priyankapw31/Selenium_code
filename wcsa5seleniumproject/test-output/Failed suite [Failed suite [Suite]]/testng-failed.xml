@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)(failed)(failed)">
+    <classes>
+      <class name="testNGExecution.Test3">
+        <methods>
+          <include name="Test3Method"/>
+        </methods>
+      </class> <!-- testNGExecution.Test3 -->
+      <class name="testNGExecution.Test1">
+        <methods>
+          <include name="Test1Method"/>
+        </methods>
+      </class> <!-- testNGExecution.Test1 -->
+      <class name="testNGExecution.Test2">
+        <methods>
+          <include name="Test2Method"/>
+        </methods>
+      </class> <!-- testNGExecution.Test2 -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

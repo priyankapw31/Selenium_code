@@ -39,6 +39,14 @@ public class LoginPage {
 			loginButton.click();
 		}
 		
+		public void invalidloginMethod(String invalidUsername,String invalidPassword) throws InterruptedException
+		{
+			unsTB.sendKeys(invalidUsername);
+            pswTB.sendKeys(invalidPassword);
+            loginButton.click();
+            Thread.sleep(1000);
+            unsTB.clear();
+		}
 		
 	}
 

@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class BaseTest extends Flib implements IautoConstant {
+public class BaseTest implements IautoConstant {
 
 		//it is use to open & close the browser
 		static WebDriver driver;
